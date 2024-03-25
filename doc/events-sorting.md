@@ -5,15 +5,33 @@
 	- Continuous Kill
 	- Buy Item, Open Shop
 	- Turn From
+	- Assist
+	- Level Up or Learn Skill
 	- (with Champion(with condition), Minion, Tower, Monster, and other In-map)
 		- Approach
+		- Attack
 		- Kill
-	- Assist
+		- Monster
+			- Nash
+			- Elder Dragon
+			- Dragon
+			- Herald
+			- Red
+			- Blue
+			- Grmop
+			- Krug
+			- Murkwolf
+			- Raptor
 	- (by)
 		- Shield By
 		- Health By
 		- Buff By
 - Interactive
+	- action sort
+		- move first
+		- first encounter
+		- attack
+		- kill
 	- (with a Kind of something)
 	- (with a Champion or a Skin)
 	- Ping
@@ -34,5 +52,6 @@
 	- Death
 	- Respawn
 - Attack and Skill
+	- Use Ward
 	- Basic Attack or Critical Attack
 	- Skill PQWER
