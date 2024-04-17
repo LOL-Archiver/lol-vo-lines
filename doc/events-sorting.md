@@ -7,6 +7,7 @@
 	- Turn From
 	- Assist
 	- Level Up or Learn Skill
+	- Low Health
 	- (with Champion(with condition), Minion, Tower, Monster, and other In-map)
 		- Approach
 		- Attack
