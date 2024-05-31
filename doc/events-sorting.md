@@ -1,14 +1,16 @@
 # Sorting of common events
 - Pick or Ban
 - Special
+	- First Kill
 	- Multi Kill
 	- Continuous Kill
-	- Buy Item, Open Shop
+	- Game End
+	- Open Shop, Buy Item
 	- Turn From
 	- Assist
 	- Level Up or Learn Skill
 	- Low Health
-	- (with Champion(with condition), Minion, Tower, Monster, and other In-map)
+	- (with Champion(with condition), Minion, Tuurret, Monster, and other In-map)
 		- Approach
 		- Attack
 		- Kill
