@@ -1,6 +1,7 @@
 # Sorting of common events
 - Pick or Ban
 - Special
+	- Very Unique
 	- First Kill
 	- Multi Kill
 	- Continuous Kill
