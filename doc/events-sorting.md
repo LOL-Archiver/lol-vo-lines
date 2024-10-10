@@ -10,6 +10,10 @@
 	- Turn From
 	- Assist
 	- Level Up or Learn Skill
+	- (by)
+		- Shield By
+		- Health By
+		- Buff By
 	- Low Health
 	- (with Champion(with condition), Minion, Tuurret, Monster, and other In-map)
 		- Approach
@@ -26,10 +30,6 @@
 			- Krug
 			- Murkwolf
 			- Raptor
-	- (by)
-		- Shield By
-		- Health By
-		- Buff By
 - Interactive
 	- action sort
 		- move first
@@ -55,7 +55,9 @@
 	- Kill Champion
 	- Death
 	- Respawn
-- Attack and Skill
+- Attack
+- Skill
 	- Use Ward
 	- Basic Attack or Critical Attack
-	- Skill PQWER
+	- Upgrade Skill PQWER
+	- Use Skill PQWER
