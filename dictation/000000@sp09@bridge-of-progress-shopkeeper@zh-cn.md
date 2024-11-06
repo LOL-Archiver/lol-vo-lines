@@ -100,7 +100,7 @@
 
 ### **11 [打开:商店]**
 - `6530311F|DEA5E769|who:south|target:heimerdinger,header-000|cond:自己是【黑默丁格】` 有没有人和你说过\，你长得很像议会里那个小个头？
-- `34FC1535|84A27526|who:north|target:heimerdinger,header-000|cond:自己是【黑默丁格】` 温馨提示，由于身份变动\，您的一元专属折扣已过期
+- `34FC1535|84A27526|who:north|target:heimerdinger,header-000|cond:自己是【黑默丁格】` 温馨提示，由于身份变动\，您的议员专属折扣已过期
 
 ### **12 [打开:商店]**
 - `F2EE1112|14C44250|who:south|target:warwick,header-000|cond:自己是【沃里克】` 你这一身厚毛痒不痒啊\？我这有消炎粉
