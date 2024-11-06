@@ -61,7 +61,7 @@
 - `8251AE13|1BB9266C|who:north|cond:在附近时长大于等于30秒` 请勿死亡\，您是本店宝贵的收入来源
 - `4233A738|6FA0E501|who:north|cond:在附近时长大于等于30秒` 本店商品采购自\\符文之地的各个角落\。赞美贸易
 - `89CA0423|27AE064B|who:north|cond:在附近时长大于等于30秒` 别忘了把皮城魄罗佳肴\\喂给小家伙们\。试用装现已发放
-- `1EE76326|2E73671B|who:north|cond:在附近时长大于等于30秒` 我的创造者\在探索\\弗雷尔卓德时消失了\，无法创建该事件的关联情绪
+- `1EE76326|2E73671B|who:north|cond:在附近时长大于等于30秒` 我的创造者在探索\\弗雷尔卓德时消失了\，无法创建该事件的关联情绪
 
 ### **02 [打开:商店]**
 - `BD125F2C|E25B2B74|who:south|target:@public,icon-region-zaun|cond:自己是【祖安】地区英雄|mark:最多触发2次` 哎呀\，这不是咱底城的苦命人吗？
@@ -72,10 +72,10 @@
 - `7402082E|0380AB27|who:north|target:@public,icon-region-piltover|cond:自己是【皮尔特沃夫】地区英雄|mark:最多触发2次` 来自皮尔特沃夫的客人\，相逢总是如此美妙
 
 ### **04 [打开:商店]**
-- `725C8E30|2009AD5A|who:north|cond:自己是【约德尔人】英雄|mark:解包发现游戏文件中没有设置该类语音的触发条件\，在游戏中可能无法触发` 需要我帮您\\拿取货架最上层的商品吗？
+- `725C8E30|2009AD5A|who:north|cond:自己是【约德尔人】英雄|mark:当前游戏中没有发现该类语音的触发条件\，可能无法触发` 需要我帮您\\拿取货架最上层的商品吗？
 
 ### **05 [打开:商店]**
-- `34EA2714|4E56ED70|who:south|target:jinx,header-000|cond:自己是【金克丝】` 你拍拍猴的小玩具还做吗\？我能把它卖脱销
+- `34EA2714|4E56ED70|who:south|target:jinx,header-000|cond:自己是【金克丝】` 你那个拍拍猴的小玩具还做吗\？我能把它卖脱销
 - `26E3B70E|FFC86C65|who:north|target:jinx,header-000|cond:自己是【金克丝】` 金克斯，本店不鼓励暴走行为\，店外可以
 
 ### **06 [打开:商店]**
@@ -127,7 +127,7 @@
 - `6B080716|B4433336|who:north|target:ezreal,header-000|cond:自己是【伊泽瑞尔】` 欢迎光临，伊泽瑞尔\。侦测到重度行窃风险
 
 ### **18 [打开:商店]**
-- `75A88715|494FC80E|who:south|target:blitzcrank,header-000|cond:自己是【布里茨】` 齿轮润滑够吗\？机油宝来一瓶
+- `75A88715|494FC80E|who:south|target:blitzcrank,header-000|cond:自己是【布里茨】` 齿轮润滑够吗\？机油宝来一瓶？
 - `C8DD3F1F|52556600|who:north|target:blitzcrank,header-000|cond:自己是【布里茨】` 布里茨…\…很高兴见到你
 
 ### **19 [打开:商店]**
@@ -154,8 +154,8 @@
 - `799EB810|EE273D3A|who:north|target:zeri,header-000|cond:自己是【泽丽】` 检测到电能魔法\，正在保持距离
 
 ### **25 [购买:道具:复用型药水]**
-- `0A64AD0C|D48D065C|who:south|skill:@public,@item,icon-item-2138` 续杯，免费
-- `CB1EBB33|28BED539|who:north|skill:@public,@item,icon-item-2138` 续杯免费……
+- `0A64AD0C|D48D065C|who:south|skill:@public,@item,icon-item-2031` 续杯，免费
+- `CB1EBB33|28BED539|who:north|skill:@public,@item,icon-item-2031` 续杯免费……
 
 ### **26 [购买:道具:钢铁合剂]**
 - `5F124B27|00599E1A|who:north|skill:@public,@item,icon-item-2138` 强身健体就喝钢铁合剂
@@ -211,12 +211,12 @@
 - `C62C110E|530B3C66|who:south|cond:打开时拥有金币大于等于3000` 你这钱是忘了花还是咋的？
 - `01F37C34|4E702C3A|who:south|cond:打开时拥有金币大于等于3000` 腰缠万贯挺累吧\，我来帮你啊
 - `DF36EA1F|56572F01|who:south|cond:打开时拥有金币大于等于3000` 你好，我的贵客\。是什么风把您这位\\大富大贵的给送来了？
-- `F4C1BE3F|D3519B1F|who:north|cond:打开时拥有金币大于等于3000` 苦攒金币，又烦又累\。即刻参与本店冲动大消费\，卸下负担，一身轻松
+- `F4C1BE3F|D3519B1F|who:north|cond:打开时拥有金币大于等于3000` 苦攒金币，又烦又累\？即刻参与本店冲动大消费\，卸下负担，一身轻松
 - `EA84273D|C048E73C|who:north|cond:打开时拥有金币大于等于3000` 正在计算您所携带的金币数量\，计算结果，高！
 - `FFD60317|6DE7530E|who:north|cond:打开时拥有金币大于等于3000` 有钱顾客正在接近\。你好，向你致敬\。你好吗？我的朋友
 
 ### **37 [打开:商店]**
-- `26932E38|7C8FC978|who:south|cond:在附近敌方英雄大于等于2名` 我本来者不善呐\，快挑件趁手的招呼他们
+- `26932E38|7C8FC978|who:south|cond:在附近敌方英雄大于等于2名` 本来者不善呐\，快挑件趁手的招呼他们
 - `84B3C30E|D7F67545|who:south|cond:在附近敌方英雄大于等于2名` 看来皮城人\\也知道我这价格漂亮
 - `9D43D92C|AD037713|who:north|cond:在附近敌方英雄大于等于2名` 现在是客流高峰\，请大家相互照顾，排好队
 - `710EE518|01353A1A|who:north|cond:在附近敌方英雄大于等于2名` 我们被敌人包围了\。但不用担心\，因为我没有担心程序
@@ -224,7 +224,7 @@
 ### **38 [打开:商店]**
 - `54D2373F|1DA8213F|who:south` 来生意了
 - `46B9E42E|6FC6B273|who:south` 赶紧买完东西去办你的正事\，为了祖安
-- `E825F32A|383B0079|who:south` 嘿哟喂，这不是那谁吗？
+- `E825F32A|383B0079|who:south` 哎呦喂，这不是那谁吗？
 - `4C3D4C38|A0CB4652|who:south` 没想到当年的事\\还有这般因果
 - `1598FF32|6BA58163|who:south` 黑巷淘来的上等货\，质量包您满意
 - `CE20E51B|C89F2775|who:south` 欢迎……
@@ -236,7 +236,7 @@
 - `69254611|3E13ED2F|who:south` 想去桥那边\，那得来我这看看
 - `C8589D37|CA94721A|who:south` 这里是进步之桥官方旗舰店\，我先来的
 - `67A3B630|839EE91D|who:north` 您好，待消费客户
-- `5FB53325|EF38FA0C|who:north` 产品推销文案
+- `5FB53325|EF38FA0C|who:north|mark:这里指网站或程序常见的动态替换模版\，但是替换失败了\。最终直接读出替换前的内容` {产品推销文案}
 - `3A266633|A7CCA061|who:north` 正在启动
 - `83090A38|4DB0E80B|who:north` 热情欢迎
 - `0FCE6D2F|154F5531|who:north` 正在展示商品
@@ -322,6 +322,6 @@
 - `A4610104|76CEC555|who:north` 为了皮尔特沃夫
 - `B1F9963A|BBD7D97A|who:north` 交互完成
 - `F5B06F17|3C62943A|who:north` 商品滞销，帮帮我们\，快去战斗吧
-- `978B5907|306FFE6E|who:north` 再次输入告别语
+- `978B5907|306FFE6E|who:north` {在此输入告别语}
 - `60513A34|283C0841|who:north` 进步，永不止步
 - `3EFB9F10|97B92268|who:north` 正在关闭
